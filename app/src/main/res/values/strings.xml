@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DHProject</string>
+    <string name="all_per_night">por noite</string>
+    <string name="myheroes_chat">Conversar</string>
+    <string name="myheroes_book_again">Reservar de novo</string>
+    <string name="myheroes_title">Meus heróis</string>
+    <string name="error_getting_heroes">Erro ao recuperar meus heróis</string>
+    <string name="myheroes_recents_header">Heróis com quem hospedei</string>
+    <string name="myheroes_likes_header">Heróis favoritos</string>
+    <string name="myheroes_stars">(%1$d)</string>
+    <string name="myheroes_toast_chat">Conversar</string>
+    <string name="myheroes_toast_bookagain">Reservar novamente</string>
+    <string name="myheroes_toast_favorite_added">Adicionado aos favoritos</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@android:color/white</color>
+    <color name="primary_dark">#c3c3c3</color>
+    <color name="accent">#ef3a5e</color>
+    <color name="background">#eff0f1</color>
+    <color name="rating_star">#ffd063</color>
+    <color name="stroke_unfilled_btn">#1f000000</color>
+    <color name="text_accent_btn">@android:color/white</color>
+    <color name="text_highlight">#a8000000</color>
+    <color name="text_secondary">#6b000000</color>
+</resources>
